@@ -66,6 +66,4 @@ public class BelongingPK {
       return false;
     return true;
   }
-
-  
 }
